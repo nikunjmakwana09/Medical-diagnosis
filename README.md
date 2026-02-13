@@ -44,7 +44,6 @@ Medical-diagnosis/
 ├── Lung_Cancer.ipynb
 ├── Parkinson's_Disease_Detection.ipynb
 ├── Thyroid.ipynb
-├── requirements.txt
 └── README.md
 
 🚀 Run The App
