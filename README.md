@@ -30,8 +30,7 @@ The models were trained using Jupyter Notebooks and integrated into a Flask web 
 - Scikit-learn  
 - Pandas  
 - NumPy  
-- Jupyter Notebook  
-- HTML / CSS  
+- Jupyter Notebook
 
 📂 Project Structure
 
